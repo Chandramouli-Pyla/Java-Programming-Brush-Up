@@ -21,7 +21,7 @@ Ready to get your hands dirty (or caffeinated)? Here's how you can contribute:
 2.  **Clone Your Coffee Shop:** Clone your forked repository to your local machine:
 
     ```bash
-    git clone [invalid URL removed]
+    git clone https://github.com/Chandramouli-Pyla/Java-Programming-Brush-Up.git
     ```
 
 3.  **Create Your Order (Branch):** Create a new branch for your contributions:
