@@ -24,7 +24,7 @@ We encourage everyone to contribute to this repository! Here are a few ways you 
 2.  **Clone Your Fork:** Clone your forked repository to your local machine:
 
     ```bash
-    git clone [invalid URL removed]
+    git clone https:/github.com/Chandramouli-Pyla/Java_Prhramming-Brush-Up.git
     ```
 
 3.  **Create a Branch:** Create a new branch for your changes:
