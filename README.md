@@ -51,11 +51,6 @@ We encourage everyone to contribute to this repository! Here are a few ways you 
 ## Topics Covered (So Far)
 
 *   [x] Basic Syntax (Hello World, Variables, Data Types)
-*   [ ] Control Flow (if/else statements, loops)
-*   [ ] Object-Oriented Programming (Classes, Objects, Inheritance)
-*   [ ] Data Structures (Arrays, Lists, Maps)
-*   [ ] Exception Handling
-*   [ ] Input/Output
 
 *(This list will be updated as we progress)*
 
